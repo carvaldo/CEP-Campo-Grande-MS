@@ -1,5 +1,5 @@
 # Localidades
-Banco de dados com as localidade do Brasil. Esse banco de dados está sendo montado à partir da necessidade de informações relacionadas com as regiões urbanas do município de Campo Grande  / MS.
+Banco de dados MySQL com as localidades do Brasil, contendo as regiões urbanas do município de Campo Grande / MS.
 
 
-![image](https://user-images.githubusercontent.com/25185695/184222962-6e9b2e37-ba54-4c8d-b84a-dfc80f9f6e6a.png)
+![image](https://user-images.githubusercontent.com/25185695/184464049-5788886d-cd2d-4f63-9d01-f6d02cc68c67.png)
